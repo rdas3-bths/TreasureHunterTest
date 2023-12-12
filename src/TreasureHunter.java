@@ -24,4 +24,8 @@ public class TreasureHunter {
     public String toString() {
         return example;
     }
+
+    public void dasMethod() {
+        System.out.println("let's see what happens");
+    }
 }
