@@ -5,6 +5,10 @@ public class TreasureHunter {
         example = e;
     }
 
+    public void explore() {
+        System.out.println("i am exploring!");
+    }
+
     public String toString() {
         return example;
     }
