@@ -9,6 +9,10 @@ public class TreasureHunter {
         System.out.println("i am exploring!");
     }
 
+    public String getExample() {
+        return example;
+    }
+
     public String toString() {
         return example;
     }
