@@ -28,4 +28,8 @@ public class TreasureHunter {
     public void dasMethod() {
         System.out.println("let's see what happens");
     }
+
+    public void millerMethod() {
+        System.out.println("this is going to get messy");
+    }
 }
