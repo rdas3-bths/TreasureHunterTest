@@ -13,6 +13,10 @@ public class TreasureHunter {
         return example;
     }
 
+    public String anotherMethod() {
+        return "another method has been added";
+    }
+
     public String toString() {
         return example;
     }
