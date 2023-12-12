@@ -24,4 +24,8 @@ public class TreasureHunter {
     public String toString() {
         return example;
     }
+
+    public void millerMethod() {
+        System.out.println("this is going to get messy");
+    }
 }
