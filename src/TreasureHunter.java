@@ -17,6 +17,10 @@ public class TreasureHunter {
         return "another method has been added";
     }
 
+    public String oneMoreMethod() {
+        return "just another method";
+    }
+
     public String toString() {
         return example;
     }
